@@ -1,6 +1,6 @@
 
 .topo{
-    background-image: linear-gradient(to top, rgba(0,0,0,1), transparent), url(/imagens/marvelBG.jpg);
+    background-image: linear-gradient(to top, rgba(0,0,0,1), transparent), url(./imagens/marvelBG.jpg);
     background-size: cover;
     background-position: center;
     border-top: 1px red solid;
